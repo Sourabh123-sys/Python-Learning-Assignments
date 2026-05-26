@@ -1,0 +1,35 @@
+Test Case 1
+Input:
+Name = Priya
+Marks = 95
+Expected Grade = A
+
+Test Case 2
+Input:
+Name = Rahul
+Marks = 82
+Expected Grade = B
+
+Test Case 3
+Input:
+Name = Sneha
+Marks = 74
+Expected Grade = C
+
+Test Case 4
+Input:
+Name = Amit
+Marks = 65
+Expected Grade = D
+
+Test Case 5
+Input:
+Name = Riya
+Marks = 45
+Expected Grade = F
+
+Test Case 6
+Input:
+Marks = 120
+Expected Output:
+Invalid marks message
