@@ -1,21 +1,61 @@
-# Amazon Data Analysis Report
+# Sales Data Analysis Report
 
-## Objective
-Analyze Amazon product dataset using Python and Pandas.
+## Project Overview
+This project analyzes sales data using Python and the Pandas library.
+The objective is to calculate sales metrics, clean data, and identify the best-selling product.
 
-## Analysis Performed
-- Loaded CSV dataset
-- Checked dataset structure
-- Found missing values
-- Cleaned price columns
-- Calculated average ratings
-- Identified highest and lowest priced products
+---
 
-## Findings
-- Dataset contains Amazon product information
-- Some columns contain missing values
-- Product prices vary significantly
-
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
+- CSV Dataset
+
+---
+
+## Dataset Information
+- Rows: 100
+- Columns: 5
+
+---
+
+## Steps Performed
+
+### 1. Loaded Dataset
+Used pandas to read CSV data.
+
+### 2. Explored Data
+Checked:
+- Shape
+- Columns
+- Data types
+
+### 3. Data Cleaning
+- Handled missing values
+- Removed duplicate rows
+
+### 4. Sales Analysis
+Calculated:
+- Total Revenue
+- Average Sales
+- Highest Sale
+- Lowest Sale
+
+### 5. Best Selling Product
+Found product with highest total sales.
+
+---
+
+## Final Findings
+- Total revenue generated from all sales
+- Identified highest-performing product
+- Cleaned and organized dataset successfully
+
+---
+
+## Conclusion
+This project helped in understanding:
+- Data analysis basics
+- Pandas operations
+- Data cleaning techniques
+- Sales reporting
